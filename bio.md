@@ -4,6 +4,8 @@ Hobbies: Climbing, programming, all kinds of biking, etc ..
 
 Books: Cat's cradle, Midnight's children, The world according to Garp
 
+Pets: Deva, Lady, Linus, Bear, Oscar, Tristen
+
 Programming Background:
 -----------------------
 
