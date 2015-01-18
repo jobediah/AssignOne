@@ -6,3 +6,7 @@ Programming Background:
 -----------------------
 
 C++ - developed a totally awesome test driven game of life
+
+Python - GNOME Keysign
+
+C - Basic knowledge
